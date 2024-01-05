@@ -4,7 +4,7 @@
 using namespace std;
 
 int main() {
-	int num = 1000;
+	int num = 20000;
 
 	int total = 0;
 
